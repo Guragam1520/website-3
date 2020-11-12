@@ -1,0 +1,59 @@
+ h1{
+color:red ;
+      }
+ *{
+ border:solid;
+  }
+.header{
+     background-color:green;
+     display:flex;
+     flex-wrap:wrap;
+    justify-content:space-between;
+}
+.camel{
+    background-color: greenyellow;
+}
+.camelInterest{
+    background-color: indianred;
+}
+.panda{
+    background-color: lightseagreen;
+}
+.pandains{
+    background-color: magenta;
+}
+.menu{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    background-color: #a3f11350;
+    padding:15px;
+    font-size:20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: blanchedalmond;
+}
+body{
+    background-color: #13f1c1f6;
+    padding: 10px;
+    margin:50px;
+    font-family:  'Callibry', Times, serif;
+}
+.grid{
+    display: flex;
+     flex-wrap:nowrap ;
+    border:2px solid #000000;
+    border-radius: 50px;
+}
+.teddy{
+    background-color: #ff06b4;
+}
+.cicada{
+    background-color: #9a6af5;
+}
+.cicadaint{
+    background-color: #0c0385;
+}
+.teddyint{
+    background-color: #ff0000;
+}
